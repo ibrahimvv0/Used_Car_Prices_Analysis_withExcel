@@ -12,8 +12,7 @@ Condition
 Odometer
 Color
 State
-Figure 1:
-![Sample of the raw data used in the analysis.](figure1.png)
+Figure 1:![Sample of the raw data used in the analysis.](figure1.png)
 
 3. Charts
 
@@ -37,8 +36,7 @@ Maker (Company)
 Odometer
 Model
 Color
-Figure 5:
-![Slicers allow users to dynamically filter the data for deeper insights.](figure5.png)
+Figure 5:![Slicers allow users to dynamically filter the data for deeper insights.](figure5.png)
 
 5. How to Use
 Clone the repository.
