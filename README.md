@@ -36,14 +36,15 @@ Maker (Company)
 Odometer
 Model
 Color
-Figure 5: ![Slicers allow users to dynamically filter the data for deeper insights.](figure5.png)
+Figure 5: ![Slicers allow users to dynamically filter the data for deeper insights.]
+(figure5.png)
 
-4. How to Use
+5. How to Use
 Clone the repository.
 Open the dashboard file.
 Use the slicers to filter data and explore trends in car sales and prices.
 
-5. Insights
+6. Insights
 Older cars tend to have lower prices and poorer conditions.
 Some manufacturers have high sales volumes but lower median prices, indicating affordability.
 Median prices vary significantly by state, reflecting local market differences.
