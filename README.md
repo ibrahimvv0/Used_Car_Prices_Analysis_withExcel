@@ -12,21 +12,25 @@ Condition
 Odometer
 Color
 State
-Figure 1: ![Sample of the raw data used in the analysis.](figure1.png)
+Figure 1: ![Sample of the raw data used in the analysis.]
+(figure1.png)
 
-2. Charts
+3. Charts
 
 2.1 Price vs Condition by Year
 This chart shows how car prices and conditions vary depending on the manufacturing year. It helps identify trends in depreciation and quality across different years.
-Figure 2: ![Price and condition distribution by car year.](figure2.png)
+Figure 2: ![Price and condition distribution by car year.]
+(figure2.png)
 
 2.2 Cars Sold and Median Price by Company
 This chart shows the number of cars sold for each manufacturer along with the median price, giving insight into brand popularity and market value.
-Figure 3: ![Number of cars sold and median price depending on the company.](figure3.png)
+Figure 3: ![Number of cars sold and median price depending on the company.]
+(figure3.png)
 
 2.3 Median Price by State
 This chart highlights the median car price across different states, which helps identify regional price differences and trends.
-Figure 4: ![Median car price by state.](figure4.png)
+Figure 4: ![Median car price by state.]
+(figure4.png)
 
 3. Slicers (Filters)
 The dashboard includes interactive slicers to filter the charts by:
